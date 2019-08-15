@@ -1,6 +1,8 @@
 mikutter_worldon_postbox_visibility
 ====
 
+mikutter 3.9.0以降をお使いの場合、このプラグインの代わりに [mastodon_postbox_visibility](https://github.com/shibafu528/mikutter_mastodon_postbox_visibility) プラグインをお使いください。
+
 ## これは何
 PostBoxにトゥートの可視性を設定するボタンを追加します。
 
